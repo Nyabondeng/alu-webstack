@@ -1,0 +1,2 @@
+./0-world_wide_web: line 14: dig: command not found
+./0-world_wide_web: line 15: dig: command not found
